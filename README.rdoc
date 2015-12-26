@@ -1,4 +1,4 @@
-Test Rails Blog App - Greg
+Test Rails Blog App - Greg Scurr
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
